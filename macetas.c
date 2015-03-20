@@ -1,3 +1,9 @@
+//Integrantes del equipo
+//Chavez Pavon Jose Manuel
+//Ramirez Ramirez Servando
+//Saules Rojas David
+//Lopez Hernandez Adriana
+
 #include <stdio.h>
 #include <string.h>
 //#define X = 1000
