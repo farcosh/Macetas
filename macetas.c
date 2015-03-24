@@ -24,6 +24,8 @@ int main(){
 				resultado[i+1] = 'L';
 				resultado[i+2] = '.';
 				i += 2;
+			}else{
+				resultado[i] = 'L';
 			}    
 		}
 		if(cadena[i] != 'X' && cadena[i] != '_'){
